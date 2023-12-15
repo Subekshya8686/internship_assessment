@@ -25,7 +25,6 @@ function Login() {
                         Login
                     </button>
                 </Link>
-                {/*</form>*/}
             </div>
         </div>
         </>
